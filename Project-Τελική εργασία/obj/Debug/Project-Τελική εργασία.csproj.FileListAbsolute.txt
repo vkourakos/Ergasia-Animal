@@ -1,0 +1,35 @@
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Form1.resources
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Properties.Resources.resources
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\Project-Τελική εργασία.exe.config
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\Project-Τελική εργασία.exe
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\Project-Τελική εργασία.pdb
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.exe
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.pdb
+C:\Users\user\source\repos\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Form2.resources
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\Project-Τελική εργασία.exe.config
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\Project-Τελική εργασία.exe
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\Project-Τελική εργασία.pdb
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Form1.resources
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Form2.resources
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Properties.Resources.resources
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.exe
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.pdb
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project-Τελική εργασία.csproj.CopyComplete
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Form3.resources
+C:\Users\user\Desktop\C#\Project-Τελική εργασία\Project-Τελική εργασία\obj\Debug\Project_Τελική_εργασία.Form4.resources
